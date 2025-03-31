@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Alexa Skill for Salesforce Lightning Scheduler integration",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.13.0",
+    "ask-sdk-model": "^1.38.2",
+    "jsforce": "^1.7.0",
+    "moment": "^2.30.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "author": ""
+}
